@@ -1,0 +1,3 @@
+# All Sports Blockchain
+
+With the increasing popularity of blockchain technology, All Sports public blockchain hopes to fill in the blank of blockchain application in sports industry through blockchain technology, which is a sun-rising industry all over the world. What we want to create is a decentralized, globalized, infiltrated into sports industry chain, shared by both parties and value co-created.

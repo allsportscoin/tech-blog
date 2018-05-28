@@ -1,0 +1,44 @@
+{
+    "author": "AllSportsChain",
+    "description": "This project contains some of SOC's technical blogs, built in gitbooks, and welcomes contributors to the SOC community.",
+    "extension": null,
+    "generator": "site",
+    "isbn": "",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "All Sports": "http://www.allsportschain.com"
+        }
+    },
+    "output": "sites",
+    "styles": {
+        "website": "docs/assets/style.css"
+    },
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "allsportschain"
+        }
+    },
+    "title": "All Sports",
+    "variables": {}
+}
