@@ -2,7 +2,7 @@
 
 ![overview](\imgs\dpos_overview.png)
 
-An overview of Dpos includes:
+###An overview of Dpos includes:
 
 Candidate: The guy who  want to be a candidate of validator.
 
@@ -11,12 +11,12 @@ Validator: The super node, who can mint a new block.
 Vote: Use can vote the candidate to be validator, the system will sort the candidate by votes and the TOP N candidates will become Validator
 
 
-How to be a Candidate or Validator:
+###How to be a Candidate or Validator:
 
 There are 4 new types of transaction to support user to become a candidate, or vote the candidate to become validator:
 beCandidate, unCandidate, Delegate, Undelegate
 
-The step to be a "candidate" of validator:
+###The step to be a "candidate" of validator:
 
 Just send a beCandidate transaction to gsoc and the value must be zero, like:
 soc.sendTransaction({from:soc.accounts[0], to:soc.accounts[0], value: web3.toWei(0, "soc"), type:web3.toHex(1)},
